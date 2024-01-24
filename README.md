@@ -63,5 +63,8 @@ REST APi
    - Which in the admin after successsfuly added plant details its will display plant message to share to other social media platform.
 - Currect DateTime
   -  Which wil display after customer procceed to the payment for the plant
+ 
+We provided (plant.zip) is php files
+plant_ordering_system.sql (sql) database
 
 
